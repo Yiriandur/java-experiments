@@ -1,6 +1,6 @@
-/* CodeAcademy's Learn JAVA course.
+/* CodeAcademy's Learn Java course.
 Create a fully functional Dog class for the section "Object Oriented Java"
-Author Yiriandur
+Author Yiriandur - date October 08, 2017
 */
 
 class Dog {
