@@ -1,6 +1,5 @@
-Object oriented Java (concepts)
+/* Object oriented Java (concepts) - Yiriandur, oct 2017
 
-/*
 Concepts within object oriented programming
 1) Encapsulation
 2) Inheritance
