@@ -4,6 +4,7 @@ Concepts within object oriented programming
 1) Encapsulation
 2) Inheritance
 3) Polymorphism
+4) Abstraction
 
 - An object is an instance of a class.
 - Encapsulation provides the security that keeps data and methods safe from inadvertent changes.
